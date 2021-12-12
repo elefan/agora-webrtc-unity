@@ -20,6 +20,8 @@ We have modified the Signaling scripts to support Agora WebRTC.
 
 ** Download and open agora-webrtc-unity with Unity-2019.04.28. **
 
+![This is an image](https://github.com/elefan/agora-webrtc-unity/blob/main/Docs/AgoraWebRTCSignaler.jpg)
+
 ** In the Hierarchy Window, click the Media Object. **
 
 ** In the Inspector Window, enter your AppID to the AgoraWebRTC Signaler Component. **
