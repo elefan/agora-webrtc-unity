@@ -40,6 +40,6 @@ We have modified the Signaling scripts to support Agora WebRTC.
 
 ![This is an image](https://github.com/elefan/agora-webrtc-unity/blob/main/Docs/BuildForARM.jpg)
 
-** Build and deploy by VS 2019  **
+** Build and deploy to hololens2 by VS 2019  **
 
 ![This is an image](https://github.com/elefan/agora-webrtc-unity/blob/main/Docs/VS.jpg)
