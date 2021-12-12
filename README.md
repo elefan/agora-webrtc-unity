@@ -18,9 +18,9 @@ We have modified the Signaling scripts to support Agora WebRTC.
 
 ** Copy the AppID from the project. **
 
-** Download and open agora-webrtc-unity with Unity-2019.04.28. **
+![This is an image](https://github.com/elefan/agora-webrtc-unity/blob/main/Docs/AppID.jpg)
 
-![This is an image](https://github.com/elefan/agora-webrtc-unity/blob/main/Docs/AgoraWebRTCSignaler.jpg)
+** Download and open agora-webrtc-unity with Unity-2019.04.28. **
 
 ** In the Hierarchy Window, click the Media Object. **
 
@@ -28,4 +28,14 @@ We have modified the Signaling scripts to support Agora WebRTC.
 
 **  In the Inspector Window, create a channel name in the AgoraWebRTC Signaler Component. **
 
+![This is an image](https://github.com/elefan/agora-webrtc-unity/blob/main/Docs/AgoraWebRTCSignaler.jpg)
+
 ** Click the Run Button above, then this project will run on your Unity Editor. **
+
+** Then, build and deploy the appx to your hololens2. **
+
+![This is an image](https://github.com/elefan/agora-webrtc-unity/blob/main/Docs/Build.jpg)
+
+![This is an image](https://github.com/elefan/agora-webrtc-unity/blob/main/Docs/BuildForARM.jpg)
+
+![This is an image](https://github.com/elefan/agora-webrtc-unity/blob/main/Docs/VS.jpg)
